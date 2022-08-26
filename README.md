@@ -1,1 +1,1 @@
-# Tehran-Temperature-Monitoring-Wirh-Zabbix
+# Tehran-Temperature-Monitoring-With-Zabbix
